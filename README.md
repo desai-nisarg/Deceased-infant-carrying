@@ -4,5 +4,10 @@ Authors: Sayantan Das, Joseph J. Erinjery, Nisarg Desai, Kamaraj Mohan, Honnaval
 
 Publication: Journal of Comparative Psychology (2019)
 
-Code, data, and phylogentic tree file for the manucript. The manuscript can be found [here.](https://psycnet.apa.org/doiLanding?doi=10.1037/com0000140)
+The repo contains the code, data, and phylogentic tree file for performing phylogenetically controlled generalized linear mixed models (GLMMs) for the systematic analysis of deceased-infant carrying behavior across apes, old world monkeys, and new world monkeys. 
+
+#### Cite as
+Das, Sayantan, Joseph J. Erinjery, Nisarg Desai, Kamaraj Mohan, Honnavalli N. Kumara, and Mewa Singh. "Deceased-infant carrying in nonhuman anthropoids: Insights from systematic analysis and case studies of bonnet macaques _(Macaca radiata)_ and lion-tailed macaques _(Macaca silenus)_." Journal of Comparative Psychology 133, no. 2 (2019): 156. [PDF](https://psycnet.apa.org/doiLanding?doi=10.1037/com0000140)
+
+
 
