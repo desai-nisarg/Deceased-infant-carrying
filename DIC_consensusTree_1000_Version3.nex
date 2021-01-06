@@ -1,0 +1,25 @@
+#NEXUS
+[created by the 10kTree Website - http://10kTrees.fas.harvard.edu]
+BEGIN TREES;
+translate
+1 Cebus_apella,
+2 Saimiri_sciureus,
+3 Gorilla_beringei,
+4 Pan_paniscus,
+5 Pan_troglodytes_schweinfurthii,
+6 Pan_troglodytes_troglodytes,
+7 Pan_troglodytes_verus,
+8 Pongo_abelii,
+9 Macaca_fuscata,
+10 Macaca_mulatta,
+11 Macaca_radiata,
+12 Macaca_silenus,
+13 Macaca_sylvanus,
+14 Papio_anubis,
+15 Papio_hamadryas,
+16 Papio_ursinus,
+17 Rhinopithecus_bieti,
+18 Rhinopithecus_roxellana,
+19 Semnopithecus_entellus;
+tree consensus_19species = ((((((14:1.277228,15:1.277228):1.401034,16:2.678262):10.174263,(((11:6.037065,12:6.037065,9:6.037065):0.840931,10:6.877995):1.782804,13:8.660800):4.191726):8.557849,((18:3.786652,17:3.786652):8.997995,19:12.784647):8.625728):8.589626,((3:8.652233,(4:2.333553,((5:0.344859,6:0.344859):0.736563,7:1.081423):1.252131):6.318679):6.480222,8:15.132455):14.867546):16.811821,(1:18.569905,2:18.569905):28.241917);
+END;
