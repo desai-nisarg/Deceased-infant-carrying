@@ -1,10 +1,15 @@
-#Nisarg Desai, desai054@umn.edu
+####----INTRODUCTION----#####
+# Manuscript title: "Deceased-Infant Carrying in Nonhuman Anthropoids: Insights From Systematic Analysis and Case Studies of Bonnet Macaques (Macaca radiata) and Lion-Tailed Macaques (Macaca silenus)"
+# Manuscript authors: Sayantan Das, Joseph J. Erinjery, Nisarg Desai, Kamaraj Mohan, Honnavalli N. Kumara, Mewa Singh
+# Code author: Nisarg Desai
+# Last update: 16 March 2018
+
 rm(list=ls())
 library(ape)
 library(MCMCglmm)
 library(phytools)
 library(VGAM)
-setwd("~/Desktop/Nisarg files/Sayantan experiments/Dead infant/Final Paper_quant methods/")
+setwd("...to the directory containing nexus tree file and data...")
 
 # Importing raw data
 data<-read.csv("DIC_data.csv",header=TRUE) # Read raw data
