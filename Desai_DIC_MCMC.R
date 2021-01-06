@@ -1,6 +1,7 @@
 ####----INTRODUCTION----#####
 # Manuscript title: "Deceased-Infant Carrying in Nonhuman Anthropoids: Insights From Systematic Analysis and Case Studies of Bonnet Macaques (Macaca radiata) and Lion-Tailed Macaques (Macaca silenus)"
 # Manuscript authors: Sayantan Das, Joseph J. Erinjery, Nisarg Desai, Kamaraj Mohan, Honnavalli N. Kumara, Mewa Singh
+# Publication: Journal of Comparative Psychology (2019)
 # Code author: Nisarg Desai, desai054[at]umn[dot]edu
 # Last update: 16 March 2018
 
